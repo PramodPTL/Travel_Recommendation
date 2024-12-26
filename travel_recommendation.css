@@ -1,0 +1,38 @@
+body {
+    background-image: url('background-image.jpg');
+    background-size: cover; /* Makes the image cover the entire page */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+    height: 100vh; /* Makes the background cover the whole viewport */
+    margin: 0; /* Removes any default margin */
+  }
+
+.home-slogan{
+    color: white;
+    font-size: 80px;
+    
+}
+.centerMe{
+    padding-left: 100px;
+    padding-top: 100px;
+    margin-right: 800px;
+}
+.home-para{
+    color: white;
+    padding-top: 20px;
+    font-weight: 500;
+}
+.AHeading{
+    color: white;
+    font-size: 80px;
+    font-weight: 600;
+}
+.AboutUs-Content{
+    margin-left: 100px;
+}
+.Apara{
+    color: white;
+    padding: 15px;
+    border: 5px solid blue;
+    font-size: large;
+}
